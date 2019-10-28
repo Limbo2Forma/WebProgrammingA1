@@ -105,7 +105,7 @@ $(document).ready(function () {
     document.title = title;
     $('#header-title').append(document.title);
     
-    $('.inner-content').append('<div class="classes bg"><div id="classes-ctn" class="ctn-box container"></div></div>');
+    $('.inner-content').append('<div class="classes bg" style="background-image: url(' + folder + '/bg.jpg)"><div id="classes-ctn" class="ctn-box container"></div></div>');
     generateTabContainer('#classes-ctn', 'classes-nav', 'classes-tab-ctn');
 
     generatePreview();

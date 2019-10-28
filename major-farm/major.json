@@ -1,0 +1,102 @@
+{
+    "nation": {
+        "title":"nation",
+        "links":[
+            {
+                "url":"nation/void-spartan.html",
+                "pic":"nation/pictures/void_spartan_female.png"
+            },{
+                "url":"../classes/class-pages/void-highlord/void_highlord.html",
+                "pic":"../classes/class-pages/void-highlord/void_highlord_male.png"
+            },{
+                "url":"nation/adfl.html",
+                "pic":"nation/pictures/adfl_male.png"
+            },{
+                "url":"nation/void-warlock.html",
+                "pic":"nation/pictures/void-warlock-1.png"
+            },{
+                "url":"nation/void-paladin.html",
+                "pic":"nation/pictures/void_paladin_female.png"
+            },{
+                "url":"nation/void-shogun.html",
+                "pic":"nation/pictures/void_shogun_female.png"
+            },{
+                "url":"nation/juggernaunt.html",
+                "pic":"nation/pictures/ungodly_reavers.png"
+            },{
+                "url":"nation/dragonblade.html",
+                "pic":"nation/pictures/dragonblade_ver.png"
+            },{
+                "url":"nation/orbs.html",
+                "pic":"nation/pictures/shadow_orb.png"
+            },{
+                "url":"nation/nulgath_house.html",
+                "pic":"nation/pictures/nulgath_house_icon.png"
+            }
+        ]
+    },
+    "legion": {
+        "title":"legion",
+        "links":[
+            {
+                "url":"../classes/class-pages/legion-revenant/legion_revenant.html",
+                "pic":"../classes/class-pages/legion-revenant/legion_revenant_female.png"
+            }
+        ]
+    },
+    "evil": {
+        "title":"evil",
+        "links":[
+            {
+                "url":"evil/arch_doomknight.html",
+                "pic":"evil/pictures/arch_doomknight_male.png"
+            },{
+                "url":"evil/sepulchure_armor.html",
+                "pic":"evil/pictures/sepulchure_armor_female.png"
+            },{
+                "url":"evil/nsod.html",
+                "pic":"evil/pictures/nsod.png"
+            },{
+                "url":"evil/doomblades.html",
+                "pic":"evil/pictures/dark_doomblade.png"
+            }
+        ]
+    },
+    "good": {
+        "title":"good",
+        "links":[
+            {
+                "url":"../classes/class-pages/archpaladin/archpaladin.html",
+                "pic":"../classes/class-pages/archpaladin/archpaladin_female.png"
+            },{
+                "url":"../classes/class-pages/light-caster/light_caster.html",
+                "pic":"../classes/class-pages/light-caster/light_caster_male.png"
+            },{
+                "url":"good/blod.html",
+                "pic":"good/blod.png"
+            }
+        ]
+    },
+    "chaos": {
+        "title":"chaos",
+        "links":[
+            {
+                "url":"chaos/drakath_armor.html",
+                "pic":"chaos/drakath_armor.png"
+            }
+        ]
+    },
+    "others": {
+        "title":"others",
+        "links":[
+            {
+                "url":"others/awe/awe.html",
+                "pic":"others/awe/awe_set.png"
+            },{
+                "url":"others/upgrade/upgrade.html",
+                "pic":"others/upgrade/polished_blod.png"
+            }
+        ]
+    }
+    
+}

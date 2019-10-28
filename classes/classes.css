@@ -1,0 +1,51 @@
+.bg {
+    background-image: url("./classes-bg.jpg");
+    min-height: 100vh;
+}
+
+.dark-box {
+    padding: 30px 0;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: rgba(33, 33, 33, 0.6);
+    border-radius: 5px;
+}
+#top {
+    background-color: rgba(22, 22, 22, 0.6);
+    border-radius: 5px;
+    padding: 0;
+}
+.enh-mana-box li {
+    display: inline-block;
+    min-width: 250px;
+}
+
+.enh-mana-box ul {
+    padding: 0;
+}
+
+.classes-item {
+    width: 25%;
+    font-size: 18px;
+    text-decoration: underline;
+    padding-top: 5px;
+}
+.tab-pane h1 {
+    width: 100%;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .classes-item {
+        width: calc(100% /3);
+    }
+    .bg {
+        padding: 40px 20px;
+    }
+}
+
+@media (max-width: 400px) {
+    .classes-item {
+        width: 50%;
+    }
+}

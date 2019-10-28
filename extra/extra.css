@@ -1,0 +1,21 @@
+.bg {
+    background-image: url("./bg.jpg");
+    min-height: 100vh;
+}
+.form-check-inline {
+    padding: 10px 20px
+}
+.form-control {
+    margin-bottom: 20px;
+    background-color: rgba(22, 22, 22, 0.6);
+    color: #fff;
+}
+
+.form-group {
+    position: relative;
+}
+
+.btn-right-corner {
+    position: absolute;
+    right: 0;
+}

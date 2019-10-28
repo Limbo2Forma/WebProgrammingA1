@@ -1,0 +1,46 @@
+body {
+    background: #040404;
+    color: #fff;
+}
+
+.home-title {
+    width: 100%;
+    font-size: 4em;
+    text-align: center;
+    padding-top: 30px;
+}
+.content {
+    padding: 30px 80px 80px 80px;
+}
+.pages-instruction {
+    margin: 20px 115px;
+    padding: 20px 40px;
+    background-color: rgba(33, 33, 33, 0.8);
+    border-radius: 5px;
+}
+.menu-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.menu-item {
+    max-width: 300px;
+    padding-bottom: 30px;
+}
+
+.menu-item a img {
+    width: 100%;
+}
+
+#content {
+    width: 100%;
+}
+
+/* ---------------------------------------------------
+    MEDIAQUERIES
+----------------------------------------------------- */
+
+@media (max-width: 768px) {
+
+}
